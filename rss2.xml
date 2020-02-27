@@ -9,8 +9,58 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>五彩缤纷的世界，我来啦~</description>
-    <pubDate>Thu, 27 Feb 2020 06:17:46 GMT</pubDate>
+    <pubDate>Thu, 27 Feb 2020 10:30:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://c0mogu.github.io/zh-CN/4a17b156.html</link>
+      <guid>https://c0mogu.github.io/zh-CN/4a17b156.html</guid>
+      <pubDate>Thu, 27 Feb 2020 10:30:44 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://c0mogu.github.io/zh-CN/4a17b156.html#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>https://c0mogu.github.io/undefined/d4a1185.html</link>
+      <guid>https://c0mogu.github.io/undefined/d4a1185.html</guid>
+      <pubDate>Thu, 27 Feb 2020 10:28:06 GMT</pubDate>
+      <description>
+      
+        
+        
+          
+          
+            &lt;script&gt;
+        document.querySelectorAll(&#39;.github-emoji&#39;)
+          .forEach(el =&gt; {
+            if (!el.dataset.src) { return; }
+       
+          
+        
+      
+      </description>
+      
+      
+      <comments>https://c0mogu.github.io/undefined/d4a1185.html#disqus_thread</comments>
+    </item>
     
     <item>
       <title>直线、圆、圆锥曲线</title>
